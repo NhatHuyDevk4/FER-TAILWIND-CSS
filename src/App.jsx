@@ -9,6 +9,7 @@ import V1_3_0_Content from './components/shadcn-studio/blocks/timeline-component
 import V1_2_0_Content from './components/shadcn-studio/blocks/timeline-component-05/content/v1_2_0'
 import V1_1_0_Content from './components/shadcn-studio/blocks/timeline-component-05/content/v1_1_0'
 
+
 const navigationData = [
   {
     title: 'Testimonials',
@@ -104,6 +105,7 @@ function App() {
         </main>
 
         <Footer />
+
       </BrowserRouter>
     </div>
   )
